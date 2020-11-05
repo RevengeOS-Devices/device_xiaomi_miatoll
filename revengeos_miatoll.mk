@@ -11,7 +11,7 @@ $(call inherit-product, vendor/revengeos/config/common.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Some Extra's
-REVENGEOS_BUILDTYPE := UNOFFICIAL
+REVENGEOS_BUILDTYPE := OFFICIAL
 
 PRODUCT_NAME := revengeos_miatoll
 PRODUCT_DEVICE := miatoll
